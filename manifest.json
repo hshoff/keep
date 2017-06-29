@@ -1,0 +1,33 @@
+{
+  "name": "Keep",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "quip ui improvements",
+  "homepage_url": "http://github.com/hshoff/hemingway",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "default_locale": "en",
+  "permissions": [
+    "contentSettings",
+    "notifications"
+  ],
+  "omnibox": {
+    "keyword": "keep"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.quip.com/*"
+      ],
+      "css": [
+        "src/inject/inject.css"
+      ],
+      "js": [
+        "src/inject/inject.js"
+      ]
+    }
+  ]
+}
