@@ -9,7 +9,7 @@ A Chrome browser extension for custom quip ui
 
 ### Before
 
-![before keep](./before-keep.png)
+![before keep](./Screen Shot 2017-06-29 at 1.46.58 PM.png)
 
 ### After
 
