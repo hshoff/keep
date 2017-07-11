@@ -13,7 +13,7 @@ A Chrome browser extension for custom quip ui
 
 ### After
 
-![after keep](./after-keep.png)
+![after keep](./after-keep2.png)
 
 ## Easy Install
 
