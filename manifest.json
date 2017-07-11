@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "quip ui improvements",
-  "homepage_url": "http://github.com/hshoff/hemingway",
+  "homepage_url": "http://github.com/hshoff/keep",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
